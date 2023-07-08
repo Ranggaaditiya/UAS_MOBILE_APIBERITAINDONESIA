@@ -3,7 +3,7 @@
 Nama : Rangga Aditiya.
 Kelas           : TI.21.A.3
 
-Nim             : 312110262.
+Nim             : 312110123.
 
 Mata Kuliah     : Pemrograman Mobile 2.
 
