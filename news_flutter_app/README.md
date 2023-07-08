@@ -2,11 +2,15 @@
 
 Nama : Rangga Aditiya.
 Kelas           : TI.21.A.3
+
 Nim             : 312110262.
+
 Mata Kuliah     : Pemrograman Mobile 2.
+
 Dosen Pengampu  : Najamuddin Dwi Miharja, S.Kom., M.Kom.
 
-## Getting Started
+
+## Getting Staarted
 
 This project is a starting point for a Flutter application.
 
