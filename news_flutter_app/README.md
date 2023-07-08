@@ -12,9 +12,7 @@ Dosen Pengampu  : Najamuddin Dwi Miharja, S.Kom., M.Kom.
 
 ## Link API 
 
-[This project is a starting point for a Flutter application.](https://newsapi.org/v2/top-headlines?country=id&category=business&apiKey=${apikey})
-
-A few resources to get you started if this is your first Flutter project:
+https://newsapi.org/v2/top-headlines?country=id&category=business&apiKey=${apikey
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
