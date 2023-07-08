@@ -10,9 +10,9 @@ Mata Kuliah     : Pemrograman Mobile 2.
 Dosen Pengampu  : Najamuddin Dwi Miharja, S.Kom., M.Kom.
 
 
-## Getting Staarted
+## Link API 
 
-This project is a starting point for a Flutter application.
+[This project is a starting point for a Flutter application.](https://newsapi.org/v2/top-headlines?country=id&category=business&apiKey=${apikey})
 
 A few resources to get you started if this is your first Flutter project:
 
